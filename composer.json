@@ -1,0 +1,22 @@
+{
+    "name": "art3mk4/console",
+    "description": "simple console application",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artem Yuriev",
+            "email": "art3mk4@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Art\\Console\\": "./src"
+        }
+    }
+}
